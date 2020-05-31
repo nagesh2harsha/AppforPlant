@@ -1,0 +1,11 @@
+start project name
+
+app -> 
+
+manifests -> configrations
+
+java -> custumview - default code
+        env - default code
+        tflite - classifier.java(deply results)
+                 classiferFloatMobileNet(model , labels added here)
+
